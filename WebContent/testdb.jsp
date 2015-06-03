@@ -42,7 +42,7 @@
    stmt.close();
    conn.close();
    out.println("连接池测试成功");
-   //测试git
+   //测试git-修改2015-06-03
   %>
  </body>
 </html>
